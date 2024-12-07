@@ -1,2 +1,6 @@
 # Refernce Docs for the project
 #/ReferenceDocs/
+
+# Packages-Lock
+/frontend/package-lock.json
+.package-lock.json
